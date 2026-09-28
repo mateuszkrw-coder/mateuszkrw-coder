@@ -3,7 +3,7 @@
 <a href="https://github.com/mateuszkrw-coder?tab=repositories"><img src="assets/hello.svg" alt="hey, i'm mateusz. not much going on here, go check out my repos instead." /></a>
 -->
 
-<!-- Project grid: each image is the repo's own showreel (or a screenshot) and links to the repo. -->
+<!-- Project grid: each image is the repo's own showreel and links to the repo. -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -25,7 +25,7 @@
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/mateuszkrw-coder/cosmic-clocks">cosmic-clocks</a></b><br>
-      <a href="https://github.com/mateuszkrw-coder/cosmic-clocks"><img src="https://raw.githubusercontent.com/mateuszkrw-coder/cosmic-clocks/HEAD/docs/screenshots/02-j1748-fastest.jpg" width="100%" alt="Cosmic Clocks: the fastest-spinning pulsar known"></a>
+      <a href="https://github.com/mateuszkrw-coder/cosmic-clocks"><img src="https://raw.githubusercontent.com/mateuszkrw-coder/cosmic-clocks/HEAD/docs/showreel.avif" width="100%" alt="Cosmic Clocks showreel"></a>
       <sub>Listen to twelve real pulsars tick at their true rotation rate.</sub>
     </td>
   </tr>
